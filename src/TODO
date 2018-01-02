@@ -1,0 +1,8 @@
+
+- Fix header file arrangement
+- Check for bugs and syntax for all tests
+    Record which tests are throwing errors here
+- Additional advanced features
+
+What should array translations look like?
+At this point, how should we do JUnit tests?
